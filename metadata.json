@@ -1,0 +1,6 @@
+{
+  "name": "FleetPro - Fleet Management System",
+  "description": "Comprehensive fleet management platform for tracking vehicles, driver assignments, maintenance schedules, fuel expenses, and live operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
